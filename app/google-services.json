@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761333583871",
+    "firebase_url": "https://chattest-b339c.firebaseio.com",
+    "project_id": "chattest-b339c",
+    "storage_bucket": "chattest-b339c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761333583871:android:e6109550d51e7511",
+        "android_client_info": {
+          "package_name": "mx.itesm.edu.earthone.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761333583871-245dkvg0o23if87bqfflg97o1uip866v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfCNKDxZyiUWmMARWLy_dvrfxc0swVCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
